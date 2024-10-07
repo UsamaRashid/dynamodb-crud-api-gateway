@@ -10,7 +10,7 @@
   "author": "Usama Rashid",
   "license": "ISC",
   "dependencies": {
-    "@aws-sdk/client-dynamodb": "^3.18.0",
+    "@aws-sdk/client-dynamodb": "^3.665.0",
     "@aws-sdk/util-dynamodb": "^3.18.0"
   },
   "devDependencies": {
